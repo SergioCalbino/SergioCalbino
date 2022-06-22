@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SergioCalbino from Argentina
 - 🔭 I’m currently working on PI Henry Bootcamp and PF
 - 👀 I’m interested in the world of technology. 
-- 🌱 I’m currently learning JavasCript, React.js, Next.js, Node.js, Sequelize, PostgreSQL
+- 🌱 I’m currently learning JavasCript, React.js, Next.js, Node.js, Sequelize, PostgreSQL, Chakra-UI, Redux, Express
 - 💞️ I’m looking to collaborate and work on Finally Proyect on Henry. (Ecommerce)
 - 📫 How to reach me serggio.c86@gmail.com
 
