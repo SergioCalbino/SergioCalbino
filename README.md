@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @SergioCalbino from Argentina
-- 🔭 I’m Developer Full Stack
-- 👀 I’m interested in the world of technology. 
-- 🌱 I’m learning JavasCript, React.js, Next.js, Node.js, PostgreSQL, Chakra-UI, Redux, Express, MongoDB
-- 💞️ I’m looking to collaborate and work on Finally Proyect on Henry. (Ecommerce)
-- 📫 How to reach me serggio.c86@gmail.com
+- 👋 Hola soy @SergioCalbino de Argentina
+- 🔭 Soy Developer Full Stack
+- 👀 Soy un apasionado de la tecnología. 
+- 🌱 Aprendí y continuo aprendieendo en tecnologias tales como JavasCript, React.js, Next.js, Node.js, Express.Js PostgreSQL , Redux, Express, MongoDB
+- 💞️ Actualmente estoy desarrollando un ecommerce Artístico con el stack MERN
+- 📫 Podes contactarme a traves de serggio.c86@gmail.com o al 1161219480
 
 <!---
 SergioCalbino/SergioCalbino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
